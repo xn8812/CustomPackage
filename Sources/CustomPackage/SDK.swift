@@ -9,9 +9,7 @@ import Foundation
 
 
 public struct SDK {
-    public init {
-        
-    }
+    
     public static func hello() -> String {
         let s = "do some work"
         return s
